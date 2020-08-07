@@ -1,0 +1,12 @@
+{
+  "name": "expo-scheleton",
+  "displayName": "expo-scheleton",
+  "expo": {
+    "name": "expo-scheleton",
+    "slug": "expo-scheleton",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
